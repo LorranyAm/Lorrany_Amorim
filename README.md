@@ -1,4 +1,4 @@
-# Oi, eu sou a Lorrany
+# Olá, me chamo Lorrany
 
 Sou estudante de Analise e Desenvolvimento de Sistemas e estou construindo minha jornada na area de desenvolvimento front-end.
 
