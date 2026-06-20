@@ -54,4 +54,4 @@ Estou criando novos projetos para praticar:
 ## Contato
 
 GitHub: [github.com/LorranyAm](https://github.com/LorranyAm)
-LinkedIn: adicione seu link aqui
+LinkedIn: [linkedin.com/in/lorrany-amorim-946234272](https://www.linkedin.com/in/lorrany-amorim-946234272)
