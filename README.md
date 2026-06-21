@@ -37,6 +37,32 @@ Recursos do projeto:
 
 Repositorio: [Calculadora Glam Rosa](https://github.com/LorranyAm/Calculadora-rosa)
 
+### Quantum Drive
+
+Projeto web com proposta visual moderna, desenvolvido para praticar estrutura de paginas, organizacao de conteudo, estilização e publicacao de interfaces.
+
+Recursos trabalhados no projeto:
+
+- Estrutura visual para apresentacao de produto/servico
+- Organizacao de secoes
+- Estilizacao com foco em identidade visual
+- Pratica de HTML e CSS
+- Ajustes de acessibilidade e experiencia do usuario
+
+Status: em organizacao para publicacao no GitHub.
+
+### Portfolio Front-End
+
+Projeto em desenvolvimento para reunir meus estudos, projetos e evolucao como estudante de Analise e Desenvolvimento de Sistemas com foco em front-end.
+
+Objetivos do projeto:
+
+- Apresentar meus principais projetos
+- Reunir links de contato
+- Praticar responsividade
+- Criar uma identidade visual profissional
+- Servir como vitrine para oportunidades na area de tecnologia
+
 ## Objetivo
 
 Meu objetivo e conquistar minha primeira oportunidade na area de tecnologia, especialmente como desenvolvedora front-end, aplicando meus conhecimentos em projetos reais e continuando a aprender todos os dias.
